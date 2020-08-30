@@ -280,7 +280,7 @@
     "vuex-pathify": "1.1.3",
     "vuex-persistedstate": "2.5.4",
     "webpack": "4.25.1",
-    "webpack-bundle-analyzer": "3.0.3",
+    "webpack-bundle-analyzer": "3.3.2",
     "webpack-cli": "3.1.2",
     "webpack-dev-middleware": "3.4.0",
     "webpack-hot-middleware": "2.24.3",
