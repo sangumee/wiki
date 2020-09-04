@@ -266,7 +266,7 @@
     "vue-hot-reload-api": "2.3.1",
     "vue-loader": "15.4.2",
     "vue-material-design-icons": "2.4.0",
-    "vue-moment": "4.0.0",
+    "vue-moment": "4.1.0",
     "vue-router": "3.0.1",
     "vue-simple-breakpoints": "1.0.3",
     "vue-status-indicator": "1.1.1",
