@@ -199,7 +199,7 @@
     "babel-plugin-transform-imports": "1.5.1",
     "brace": "0.11.1",
     "cache-loader": "1.2.5",
-    "chart.js": "2.7.3",
+    "chart.js": "2.9.4",
     "clean-webpack-plugin": "1.0.0",
     "copy-webpack-plugin": "4.6.0",
     "core-js": "2.5.7",
